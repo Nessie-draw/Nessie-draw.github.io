@@ -6,7 +6,7 @@ On a ajouté une messagerie au site du club de robotique de l'UQAC (https://cruq
 
 ## Site en ligne
 
-(à venir)
+Disponible au https://projet-fil-rouge-deploy-12hx9swo2-cruqac.vercel.app/
 
 ## Ce qui existait déjà
 
